@@ -18,9 +18,7 @@ class Todolist extends Component<Iprops> {
             <div className="container-sm p-4 my-4  bg-dark text-white" >
                 {myNotes.notes.map((note) => {
                     return (
-
                         <Notes key={note.id} id={myNotes.findNote(note.id)} />
-
                     );
                 })}
             </div>
