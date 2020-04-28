@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.de9b66ad.chunk.js",
-    "main.js.map": "/static/js/main.de9b66ad.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e1daef6b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e1daef6b.js.map",
-    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.2710f862.chunk.js": "/static/js/2.2710f862.chunk.js",
-    "static/js/2.2710f862.chunk.js.map": "/static/js/2.2710f862.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1d7f54f2b3696197fed27aca65b6257a.js": "/precache-manifest.1d7f54f2b3696197fed27aca65b6257a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.2710f862.chunk.js.LICENSE.txt": "/static/js/2.2710f862.chunk.js.LICENSE.txt"
+    "main.css": "/Todolist_JobProject/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Todolist_JobProject/static/js/main.f77d7a81.chunk.js",
+    "main.js.map": "/Todolist_JobProject/static/js/main.f77d7a81.chunk.js.map",
+    "runtime-main.js": "/Todolist_JobProject/static/js/runtime-main.e0d5803f.js",
+    "runtime-main.js.map": "/Todolist_JobProject/static/js/runtime-main.e0d5803f.js.map",
+    "static/css/2.de424728.chunk.css": "/Todolist_JobProject/static/css/2.de424728.chunk.css",
+    "static/js/2.3df18017.chunk.js": "/Todolist_JobProject/static/js/2.3df18017.chunk.js",
+    "static/js/2.3df18017.chunk.js.map": "/Todolist_JobProject/static/js/2.3df18017.chunk.js.map",
+    "index.html": "/Todolist_JobProject/index.html",
+    "precache-manifest.14e644a3137492622315743c81c3423d.js": "/Todolist_JobProject/precache-manifest.14e644a3137492622315743c81c3423d.js",
+    "service-worker.js": "/Todolist_JobProject/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Todolist_JobProject/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Todolist_JobProject/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3df18017.chunk.js.LICENSE.txt": "/Todolist_JobProject/static/js/2.3df18017.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1daef6b.js",
+    "static/js/runtime-main.e0d5803f.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.2710f862.chunk.js",
+    "static/js/2.3df18017.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.de9b66ad.chunk.js"
+    "static/js/main.f77d7a81.chunk.js"
   ]
 }
